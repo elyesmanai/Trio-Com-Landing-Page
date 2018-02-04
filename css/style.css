@@ -1,0 +1,105 @@
+/*
+	Tags
+*/
+
+body{
+	background-color: #061417;
+	overflow-x: hidden;
+}
+
+nav{
+	height: 20vh;
+	background-color: #061417!important;
+
+}
+
+footer{
+	margin-top: 10%;
+	background-color: #2D383E;
+	border: 2px solid white;
+}
+
+footer h3{
+	color: white
+}
+
+/*
+	Classes
+*/
+.navbar-header{
+	padding-left: 4%
+}
+
+.nav li{
+	padding-top: 8%;
+}
+.nav li a{
+	font-size: 20px;
+	color: white;
+}
+
+.team-member{
+	background-color: #1B2D31;
+	padding: 0;
+	cursor: pointer;
+}
+
+.description{
+	 border-left: 5px solid #E71173;
+}
+.description h3{
+	color: white!important;
+}
+.service{
+	background-color:  #1BC56B;
+	margin-bottom: 1%;
+}
+
+.service-image{
+	padding: 5%;
+}
+
+.service-header{
+	color: white;
+	font-size: 50px;
+}
+/* 
+	IDs
+*/
+#propos{
+	padding-top: 10%;
+	margin-bottom: 20%;
+}
+#propos h3, #team-description h3{
+	color: white;
+}
+
+#team, #team-description{
+	padding-left: 5%;
+}
+
+#team h3{
+	color: #1BC56B;
+	padding-bottom: 10%;
+}
+
+#services{
+	margin-bottom: 4%;
+}
+
+#portfolio div{
+	padding:0;
+	margin:0;
+}
+
+#portfolio-item h3{
+	color: white;
+	font-style: bold;
+}
+
+#portfolio-item p{
+	color: grey;
+}
+#slimos, #yosri, #mehdi{
+	padding:0;
+}
